@@ -1,5 +1,6 @@
-# Understanding-HTTP-Hyper-Text-Transfer-Protocol-Secure-for-dummies
+# Understanding-HTTP-Hyper-Text-Transfer-Protocol-Secure-for-dummies (Following TRYHACKME Presequrity release)
 
+![alt text](https://static-labs.tryhackme.cloud/sites/websitecheck/logo.png)
 
 What is HTTP?
 HTTP is the fundamental of data exchange on the web
